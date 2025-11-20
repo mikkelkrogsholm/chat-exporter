@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Development files
+chats/
+to-build.md
+*.zip
+
+# Chrome extension private key
+*.pem
