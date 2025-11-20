@@ -49,7 +49,7 @@ Copy-pasting loses formatting. Screenshots are clunky. The chat might disappear 
 
 3. **Enable Developer Mode** (toggle in the top-right corner)
 
-4. **Click "Load unpacked"** and select the `ai-chat-exporter` folder
+4. **Click "Load unpacked"** and select the `chat-exporter` folder
 
 5. **Pin the extension** for easy access (click the puzzle icon in Chrome toolbar)
 
@@ -178,7 +178,7 @@ To add support for a new AI chat platform:
 
 ### Missing formatting in export
 - **Cause**: The platform's HTML structure may have changed
-- **Fix**: Please [open an issue](https://github.com/YOUR_USERNAME/ai-chat-exporter/issues) with details
+- **Fix**: Please [open an issue](https://github.com/mikkelkrogsholm/chat-exporter/issues) with details
 
 ## Contributing
 
@@ -212,4 +212,4 @@ Built with ❤️ by developers who love saving great conversations.
 
 ---
 
-**Questions? Issues?** Open a [GitHub issue](https://github.com/YOUR_USERNAME/ai-chat-exporter/issues) or contribute to the project!
+**Questions? Issues?** Open a [GitHub issue](https://github.com/mikkelkrogsholm/chat-exporter/issues) or contribute to the project!
